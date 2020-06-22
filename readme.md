@@ -17,7 +17,7 @@ Com base nesses documentos era necessário apresentar o site conforme a imagem a
   <img src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/mockup.png" />
 </div>
 
-# :memo: Regras
+## :memo: Regras
 
 1. O layout foi pré-definido, ou seja, não era um projeto para criar design, e sim, reproduzir conforme solicitado;
 2. Na página receitas, foi solicitado que quando o usuário clicar, apareça um modal contendo as mesmas informações da receita que ele clicou;
