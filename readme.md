@@ -19,8 +19,8 @@ Com base nesses documentos era necessário apresentar o site conforme a imagem a
 
 # :memo: Regras
 
-1 . O layout foi pré-definido, ou seja, não era um projeto para criar design, e sim, reproduzir conforme solicitado;
-2 . Na página receitas, foi solicitado que quando o usuário clicar, apareça um modal contendo as mesmas informações da receita que ele clicou;
+1. O layout foi pré-definido, ou seja, não era um projeto para criar design, e sim, reproduzir conforme solicitado;
+2. Na página receitas, foi solicitado que quando o usuário clicar, apareça um modal contendo as mesmas informações da receita que ele clicou;
 
 ## Conclusão
 
