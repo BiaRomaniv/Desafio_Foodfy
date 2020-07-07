@@ -1,6 +1,6 @@
-<h1 align="center">
+
  ![2020-07-07_18-20-56](https://user-images.githubusercontent.com/66280875/86844577-a4b59f80-c07e-11ea-986c-7351c173aff8.png)
-</h1>
+
 
 # Bootcamp Launchbase :rocket:
 
